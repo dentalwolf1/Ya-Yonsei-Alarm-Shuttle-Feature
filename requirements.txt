@@ -1,5 +1,0 @@
-flask
-apscheduler
-pytz
-requests
-python-dotenv
